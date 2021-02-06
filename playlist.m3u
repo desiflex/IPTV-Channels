@@ -1,17 +1,19 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News", ABC News
+#EXTINF: -1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" tvg-country="US" group-title="News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF: -1 tvg-id="CBSN Los Angeles" tvg-name="CBSN Los Angeles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Logo-cbsnla-1920x1080-new.jpg/revision/latest/top-crop/width/450/height/450?cb=20200216024712" group-title="News", CBSN Los Angeles
+#EXTINF: -1 tvg-id="CBSN Los Angeles" tvg-name="CBSN Los Angeles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Logo-cbsnla-1920x1080-new.jpg/revision/latest/top-crop/width/450/height/450?cb=20200216024712" tvg-country="US" group-title="News", CBSN Los Angeles
 https://live.chdrstatic.com/cheddar/index.m3u8
-#EXTINF: -1 tvg-id="Cheddar" tvg-name="Cheddar" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/vcmjyuin8qaigzcm5qia" group-title="News", Cheddar
+#EXTINF: -1 tvg-id="Cheddar" tvg-name="Cheddar" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/vcmjyuin8qaigzcm5qia" tvg-country="US" group-title="News", Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
-#EXTINF: -1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/espn2.jpg" group-title="Sports", ESPN 2
+#EXTINF: -1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/espn2.jpg" tvg-country="US" group-title="Sports", ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF: -1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" group-title="Sports", ESPNU
+#EXTINF: -1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" tvg-country="US" group-title="Sports", ESPNU
 https://gma2.blab.email/espnu.m3u8
-#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 3 (Australia)" tvg-logo="https://www.newscorpaustralia.com/wp-content/uploads/2018/02/fox-sports_cmyk-blue-1.jpg" group-title="Sports", Fox Sports 3 (Australia)
+#EXTINF: -1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="http://channels.roku.com/images/db4868e80c37465e994e308c59ee479c-hd.jpg" tvg-country="US" group-title="Comedy", FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 3 (Australia)" tvg-logo="https://www.newscorpaustralia.com/wp-content/uploads/2018/02/fox-sports_cmyk-blue-1.jpg" tvg-country="US" group-title="Sports", Fox Sports 3 (Australia)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF: -1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News", The Weather Channel
+#EXTINF: -1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" tvg-country="US" group-title="News", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF: -1 tvg-id="WeatherNation" tvg-name="WeatherNation" tvg-logo="http://channels.roku.com/images/db4868e80c37465e994e308c59ee479c-hd.jpg" group-title="News", WeatherNation
+#EXTINF: -1 tvg-id="WeatherNation" tvg-name="WeatherNation" tvg-logo="http://channels.roku.com/images/db4868e80c37465e994e308c59ee479c-hd.jpg" tvg-country="US" group-title="News", WeatherNation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
