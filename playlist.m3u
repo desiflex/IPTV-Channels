@@ -7,5 +7,5 @@ https://live.chdrstatic.com/cheddar/index.m3u8
 https://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF: -1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 3 (Australia)" tvg-logo="https://cpng.pikpng.com/pngl/s/548-5487141_fox-sports-3-l-fox-sports-1-clipart.png" group-title="Sports", Fox Sports 3 (Australia)
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 3 (Australia)" tvg-logo="https://www.newscorpaustralia.com/wp-content/uploads/2018/02/fox-sports_cmyk-blue-1.jpg" group-title="Sports", Fox Sports 3 (Australia)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
