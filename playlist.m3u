@@ -10,4 +10,4 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF: -1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF: -1 tvg-id="WeatherNation" tvg-name="WeatherNation" tvg-logo="http://channels.roku.com/images/db4868e80c37465e994e308c59ee479c-hd.jpg" group-title="News", WeatherNation
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
