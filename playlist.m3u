@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" tvg-country="US" group-title="News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF: -1 tvg-id="CBSN Los Angeles" tvg-name="CBSN Los Angeles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Logo-cbsnla-1920x1080-new.jpg/revision/latest/top-crop/width/450/height/450?cb=20200216024712" tvg-country="US" group-title="News", CBSN Los Angeles
-https://live.chdrstatic.com/cheddar/index.m3u8
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF: -1 tvg-id="Cheddar" tvg-name="Cheddar" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/vcmjyuin8qaigzcm5qia" tvg-country="US" group-title="News", Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF: -1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/espn2.jpg" tvg-country="US" group-title="Sports", ESPN 2
