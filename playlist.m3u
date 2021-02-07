@@ -9,7 +9,7 @@ https://live.chdrstatic.com/cheddar/index.m3u8
 https://gma2.blab.email/espn2.m3u8
 #EXTINF: -1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" tvg-country="US" group-title="Sports", ESPNU
 https://gma2.blab.email/espnu.m3u8
-#EXTINF: -1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjL7W6xF6OBehgwMMMliUgPhtok7ainUOsBhapa5Q=s900-c-k-c0x00ffffff-no-rj" tvg-country="US" group-title="Comedy", FailArmy
+#EXTINF: -1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://miro.medium.com/max/3150/1*mRyuYGbpvUg9p4er7phzZw.jpeg" tvg-country="US" group-title="Comedy", FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 3 (Australia)" tvg-logo="https://www.newscorpaustralia.com/wp-content/uploads/2018/02/fox-sports_cmyk-blue-1.jpg" tvg-country="US" group-title="Sports", Fox Sports 3 (Australia)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
