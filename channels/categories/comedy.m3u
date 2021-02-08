@@ -1,5 +1,5 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://miro.medium.com/max/3150/1*mRyuYGbpvUg9p4er7phzZw.jpeg" tvg-country="US" group-title="Comedy", FailArmy
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF: -1 tvg-id="Total Wipeout" tvg-name="Total Wipeout" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Total_Wipeout_title.jpg" tvg-country="US" group-title="Comedy", Total Wipeout
+#EXTINF: -1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Comedy", Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
