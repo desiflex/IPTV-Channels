@@ -1,1 +1,1 @@
-# Nitro-IPTV-Channels
+# IPTV-Channels
