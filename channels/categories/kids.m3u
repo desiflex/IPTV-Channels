@@ -1,0 +1,3 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="batteryPOP" tvg-name="batteryPOP" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Kids", batteryPOP
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
