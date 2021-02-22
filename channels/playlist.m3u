@@ -26,4 +26,4 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Comedy", Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Comedy", Wipeout Xtra
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+https://live-cdn.pbskids.org/out/u/est.m3u8
