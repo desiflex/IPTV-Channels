@@ -10,10 +10,13 @@ These IPTV channels come from Roku, Stirr and many other well-known websites. Al
 
 To watch IPTV using our list, you just need to paste this link. `https://bit.ly/tkcsiptv` This link only works in media players like VLC, Kodi or any other player that supports m3u playlists.
 
-## Changelog (v0.1)
+## Changelog (v0.2)
 
 - Removed The Weather Channel Stream.
   Weather channel is down and I am trying to find a new one.
 
 - Added PBS Kids! 
-  This is the official pbs kids stream and the channel is set on Pacific Time (PST)
+  This is the official pbs kids stream and the channel is set on Pacific Time (KVIE 6)
+  
+- Added More PBS Kids Locations
+  Now there are more locations for PBS Kids so you can watch PBS Kids in your Timezone!
