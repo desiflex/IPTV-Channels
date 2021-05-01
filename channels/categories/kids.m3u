@@ -2,4 +2,4 @@
 #EXTINF: -1 tvg-id="batteryPOP" tvg-name="batteryPOP" tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n.jpg" tvg-country="US" group-title="Kids", batteryPOP
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF: -1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n.jpg" tvg-country="US" group-title="Kids", batteryPOP
-https://live-cdn.pbskids.org/out/u/est.m3u8
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
