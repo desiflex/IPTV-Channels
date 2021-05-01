@@ -19,7 +19,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF: -1 tvg-id="Newsy" tvg-name="Newsy" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" tvg-country="US" group-title="News", Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF: -1 tvg-id="PBS Kids (PST)" tvg-name="PBS Kids (PST)" tvg-logo="https://www.pngitem.com/pimgs/b/152-1523753_pbs-logo-png.png" tvg-country="US" group-title="Kids", PBS Kids (PST)
+#EXTINF: -1 tvg-id="PBS Kids (KVIE 6)" tvg-name="PBS Kids (KVIE 6)" tvg-logo="https://www.pngitem.com/pimgs/b/152-1523753_pbs-logo-png.png" tvg-country="US" group-title="Kids", PBS Kids (KVIE 6)
 https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 #EXTINF: -1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Comedy", Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
