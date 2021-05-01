@@ -21,5 +21,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF: -1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" tvg-country="US" group-title="News", The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF: -1 tvg-id="Wipeout Xtra" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Comedy", Wipeout Xtra
+http://95.188.124.200:1234/udp/233.7.70.30:5000
 #EXTINF: -1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://raw.githubusercontent.com/MegaTKC/IPTV-Channels/main/wipeout-xtra.jpg" tvg-country="US" group-title="Comedy", Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
