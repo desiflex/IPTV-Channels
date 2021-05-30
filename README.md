@@ -10,8 +10,14 @@ These IPTV channels come from Roku, Stirr and many other well-known websites. Al
 
 To watch IPTV using our list, you just need to paste this link. `https://bit.ly/tkcsiptv` This link only works in media players like VLC, Kodi or any other player that supports m3u playlists.
 
-## Changelog (v0.2)
+## Changelog (v0.3)
 
+- Removed PBS Kids WNET 13
+That link was temporary and it didn't work. (Only for a few hours)
+
+## Past Updates
+
+### Changelog (v0.2)
 - Removed The Weather Channel Stream.
   Weather channel is down and I am trying to find a new one.
 
