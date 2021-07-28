@@ -12,10 +12,10 @@ To watch IPTV using our list, you just need to paste this link. `https://bit.ly/
 
 ## Changelog (v0.4)
 
-- Removed ESPN U and ESPN 2
+- Removed ESPN U and ESPN 2.
 Links were broken not working anymore.
 
-- Add pocket.watch (kids channel)
+- Add pocket.watch (kids channel).
 Link came from Xumo
 
 ## Past Updates
