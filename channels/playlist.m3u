@@ -15,6 +15,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF: -1 tvg-id="Newsy" tvg-name="Newsy" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" tvg-country="US" group-title="News", Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF: -1 tvg-id="Cheddar" tvg-name="Nitro" tvg-logo="" tvg-country="US" group-title="Unspecified", Nitro
+http://webtelevision-west1.redirectme.net/HLSStream/stream.m3u8
 #EXTINF: -1 tvg-id="PBS Kids (KVIE 6)" tvg-name="PBS Kids (KVIE 6)" tvg-logo="https://www.pngitem.com/pimgs/b/152-1523753_pbs-logo-png.png" tvg-country="US" group-title="Kids", PBS Kids (KVIE 6)
 https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 #EXTINF: -1 tvg-id="pocket.watch" tvg-name="pocket.watch" tvg-logo="https://pocket.watch/wp-content/uploads/2020/12/pw_logo_1000.png" tvg-country="US" group-title="Kids", pocket.watch
