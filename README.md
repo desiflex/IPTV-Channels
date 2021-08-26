@@ -10,15 +10,20 @@ These IPTV channels come from Roku, Stirr and many other well-known websites. Al
 
 To watch IPTV using our list, you just need to paste this link. `https://bit.ly/tkcsiptv` This link only works in media players like VLC, Kodi or any other player that supports m3u playlists.
 
-## Changelog (v0.4)
+## Changelog (v0.5)
+
+- Added Nitro!
+My Very own web tv channel!
+
+## Past Updates
+
+### Changelog (v0.4)
 
 - Removed ESPN U and ESPN 2.
 Links were broken not working anymore.
 
 - Add pocket.watch (kids channel).
 Link came from Xumo
-
-## Past Updates
 
 ### Changelog (v0.3)
 
