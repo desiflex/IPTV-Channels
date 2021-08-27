@@ -13,7 +13,7 @@ To watch IPTV using our list, you just need to paste this link. `https://bit.ly/
 ## Changelog (v0.5)
 
 - Added Nitro!
-My Very own web tv channel!
+My Very own web tv channel! Or you can click <a href="http://webtelevision-west1.redirect.me.net">here</a> to watch the stream online.
 
 ## Past Updates
 
