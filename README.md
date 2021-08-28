@@ -10,12 +10,17 @@ These IPTV channels come from Roku, Stirr and many other well-known websites. Al
 
 To watch IPTV using our list, you just need to paste this link. `https://bit.ly/tkcsiptv` This link only works in media players like VLC, Kodi or any other player that supports m3u playlists.
 
-## Changelog (v0.5)
+## Changelog (v0.6)
+
+- Removed Nitro
+I want to create a tv channel. But, due to copyright and I don't want to get into trouble. I have to remove it. Even about bandwidth. We don't have lots of bandwidth and we don't want to pay more. We instead will be adding more channels.
+
+## Past Updates
+
+### Changelog (v0.5)
 
 - Added Nitro!
 My Very own web tv channel! Or you can click <a href="http://webtelevision-west1.redirectme.net">here</a> to watch the stream online.
-
-## Past Updates
 
 ### Changelog (v0.4)
 
