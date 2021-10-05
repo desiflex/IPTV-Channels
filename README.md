@@ -10,12 +10,18 @@ These IPTV channels come from Roku, Stirr and many other well-known websites. Al
 
 To watch IPTV using our list, you just need to paste this link. `https://bit.ly/tkcsiptv` This link only works in media players like VLC, Kodi or any other player that supports m3u playlists.
 
-## Changelog (v0.6)
+## Changelog (v0.7)
+
+- Create images folder
+- Move wipeout-xtra.jpg to images folder
+The folder was created for files that were self hosted and couldn't be found on the internet. I just did this to keep this repository organized.
+
+## Past Updates
+
+### Changelog (v0.6)
 
 - Removed Nitro
 I want to create a tv channel. But, due to copyright and I don't want to get into trouble. I have to remove it. Even about bandwidth. We don't have lots of bandwidth and we don't want to pay more. We instead will be adding more channels.
-
-## Past Updates
 
 ### Changelog (v0.5)
 
