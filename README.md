@@ -26,7 +26,7 @@ I want to create a tv channel. But, due to copyright and I don't want to get int
 ### Changelog (v0.5)
 
 - Added Nitro!
-My Very own web tv channel! Or you can click <a href="http://webtelevision-west1.redirectme.net">here</a> to watch the stream online.
+My Very own web tv channel! Or you can click <a href="#siteisabandoned">here</a> to watch the stream online.
 
 ### Changelog (v0.4)
 
