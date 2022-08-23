@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" tvg-country="US" group-title="News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",A DeSiFLeX TV
+http://77.68.7.118:1935/Mystream/myStream/playlist.m3u8
 #EXTINF: -1 tvg-id="AFV" tvg-name="AFV" tvg-logo="https://i.imgur.com/FLKdEzZ.png" tvg-country="US" group-title="Comedy", AFV
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="batteryPOP" tvg-name="batteryPOP" tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n.jpg" tvg-country="US" group-title="Kids", batteryPOP
